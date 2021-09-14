@@ -1,7 +1,7 @@
 <?php
 
 
-$keys = array('C945291A39D86',); 
+$keys = array('FONKY',); 
 $sub = $_GET["key"];
 if (in_array($sub,$keys,TRUE)) {
 print('~ True ~');
